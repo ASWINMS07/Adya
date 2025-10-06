@@ -71,7 +71,7 @@ Deployment: Vercel / Netlify
 Shows process from student login → slot booking → washing → delivery → OTP verification.
 
 🖼️ **Workflow Diagram:**
-![System Workflow](./assets/diagrams/system_workflow.png)
+![System Workflow](workflow.jpg)
 
 ---
 
