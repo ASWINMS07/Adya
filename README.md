@@ -35,7 +35,7 @@ We found:
 🖼️ **Screenshots:**
 
 * ![Hostel Complaint Screenshot](research1.jpg)
-* !(research2.jpg)
+* ![Hostel Complaint Screenshot](research2.jpg)
 
 ---
 
