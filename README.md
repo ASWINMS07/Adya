@@ -34,7 +34,7 @@ We found:
 
 🖼️ **Screenshots:**
 
-* ![Hostel Complaint Screenshot](./assets/research/whatsapp_complaint.png)
+* ![Hostel Complaint Screenshot](research1.jpj)
 * ![Laundry Issue Evidence](./assets/research/laundry_issue.png)
 
 ---
