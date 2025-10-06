@@ -118,6 +118,5 @@ Shows process from student login → slot booking → washing → delivery → O
 ## 👨‍💻 Team Streak Freaks
 
 💥 *Innovating campus life, one project at a time!*
-**Members:** Naren | Aswin | Aishwarya | Sowbarnika
 
 ---
